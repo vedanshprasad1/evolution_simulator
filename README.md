@@ -114,21 +114,6 @@ The main menu provides options to:
 - View information about the simulation
 - Exit the application
 
-## Project Structure
-
-.
-├── main.py              # Main simulation loop and world management
-├── main_menu.py         # Simulation configuration and main menu
-├── creature.py          # Creature behaviour, traits and actions
-├── pathfinding.py       # A* pathfinding implementation
-├── shelter.py           # Shelter behaviour
-├── shrubs.py            # Bush and tree resource systems
-├── image_loader.py      # Loads graphical assets
-├── info.py              # Simulation statistics and visualisation
-├── images/              # Graphical assets
-├── sims/                # Saved simulation states
-└── requirements.txt     # Python dependencies
-
 ## Libraries
 
 - Python
